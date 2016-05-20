@@ -1,4 +1,12 @@
-# Nxus Module
+# Nxus Module Boilerplate
+
+## Boilerplace Usage
+
+### Installation
+
+  > git clone git@github.com:nxus/module-boilerplate.git && rm -rf ./module-boilerplate/.git
+
+-----
 
 Your Introduction Goes Here.
 
